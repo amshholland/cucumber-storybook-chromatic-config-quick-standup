@@ -1,5 +1,5 @@
-@dev
   Feature: Navbar
+    @devv
     Scenario:
       Given a logged in user
       When they are on the "My Dashboard" page
