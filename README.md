@@ -46,4 +46,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 [Cucumber/Playwright Testing Documentation](/ui/tests/README.md)
-# cucumber-storybook-chromatic-config-quick-standup
